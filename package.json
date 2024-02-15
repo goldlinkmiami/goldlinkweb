@@ -1,0 +1,19 @@
+{
+  "name": "gold-link_miami",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gsap": "^3.12.5",
+    "three": "^0.160.1",
+    "vite": "^5.0.12",
+    "vite-plugin-glsl": "^1.2.1"
+  }
+}
